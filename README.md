@@ -1,6 +1,5 @@
-# FoodExpress 🍔
-
-FoodExpress is a frontend React-based website providing a variety of delicious food options. With seamless navigation, filtering & search functionalities and a Redux store based cart, FoodExpress ensures a delightful user experience.
+# Taste-Town 🍔
+Taste-Town is a frontend React-based website providing a variety of delicious food options. With seamless navigation, filtering & search functionalities and a Redux store based cart, Taste-Town ensures a delightful user experience.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,12 +12,12 @@ Follow these steps to get FoodExpress up and running on your local machine:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/foodexpress.git
+    git clone https://github.com/VikashChoudharyyy/Taste-Town.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd foodexpress
+    cd Taste-Town
     ```
 
 3. Install the dependencies:
@@ -48,7 +47,7 @@ Follow these steps to get FoodExpress up and running on your local machine:
 
 
 ## Usage
-Simply navigate to the FoodExpress website to explore various food options. Use the search bar to find specific dishes or apply filters to narrow down your choices and add dishes which you like to the cart. 
+Simply navigate to the Taste-Town website to explore various food options. Use the search bar to find specific dishes or apply filters to narrow down your choices and add dishes which you like to the cart. 
 
 ## Technologies Used
 - **React**: A JavaScript library for building user interfaces.
